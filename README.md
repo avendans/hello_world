@@ -1,4 +1,4 @@
-### Stephanie Avendano-Wichtendahl
-##
-# hello_world
-this is my first repo!!!
+# Stephanie Avendano-Wichtendahl
+## My first repo
+
+### I'm gonna store these files here...
